@@ -19,7 +19,7 @@ A simple Python CLI tool to download manga chapters from [MangaDex](https://mang
 
 1. Clone this repository or download the script:
     ```bash
-    git clone https://github.com/yourusername/mangadex-cli-downloader.git
+    git clone https://github.com/dn3ndra/MangadexDownloader.git
     cd mangadex-cli-downloader
     ```
 
